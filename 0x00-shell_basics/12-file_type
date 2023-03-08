@@ -1,2 +1,2 @@
 #!/bin/bash
-file  /tmp/iamfilels -s /bin/ls __ls__
+file  /tmp/iamfile
